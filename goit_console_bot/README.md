@@ -1,2 +1,0 @@
-# team-bot-helper
- 

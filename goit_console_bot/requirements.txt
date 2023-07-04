@@ -1,3 +1,0 @@
-requests
-pathlib==1.0.1
-datetime==5.0
